@@ -26,6 +26,7 @@
     <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img src="./icons/powerbi.png"/> </a>
     <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="./icons/postgresql.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.sqlite.org/index.html" target="_blank"> <img src="./icons/sqlite.png"/> </a>
 </p>
 
 <br>
