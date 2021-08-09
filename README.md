@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **caio.hda@gmail.com**
 
+- Lets use data to have a easier world!
+  
 <br>
 
 ## 🛠 Languages and Tools:
