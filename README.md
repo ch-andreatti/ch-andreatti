@@ -1,21 +1,21 @@
 <a href="#"><img width="100%" height="auto" src="./image/image.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="./icons/hand.gif" width="30px">, I'm Caio Henrique</h1>
+<h1 align="center">Hi <img src="./icons/hand.gif" width="30px">, I'm Caio Henrique!</h1>
 
 
 ## 🙋‍♂️ About Me
 
 - 📍 I'm from **Brazil** 
 
-- 🚀 I’m currently working in my portofolio
+- 🤖 Future **Mechatronic Engineer**
 
-- 👨‍💻 I'm currently studying **Data Science**
+- 🎲 I'm currently studying **Data Science**
+
+- 🚀 I’m currently working in my portofolio
 
 - 🌎 I'm looking to collaborate and share a little of my knowledge with my projects
 
 - 📫 How to reach me **caio.hda@gmail.com**
-
-- 🎲 Lets use data to have a easier world!
   
 <br>
 
