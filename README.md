@@ -7,15 +7,13 @@
 
 - 📍 I'm from **Brazil** 
 
-- 🤖 Future **Mechatronic Engineer**
+- 🤖 **Mechatronic Engineer**
 
 - 🎲 I'm currently studying **Data Science**
 
 - 🚀 I’m currently working in my portofolio
 
-- 🌎 I'm looking to collaborate and share a little of my knowledge with my projects
-
-- 📫 How to reach me **caio.hda@gmail.com**
+- 🌎 I'm looking to collaborate and share a little of my knowledge with my projects 
   
 <br>
 
