@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="./image/image.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="./icons/hand.gif" width="30px">, I'm Caio Henrique!</h1>
+<h1 align="center">Hi 👋, I'm Caio Henrique!</h1>
 
 
 ## 🙋‍♂️ About Me
