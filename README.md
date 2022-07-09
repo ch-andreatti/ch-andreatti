@@ -27,6 +27,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/caioandreatti/"><img src="./icons/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/caio-andreatti/"><img src="./icons/linkedin.png"/></a>
 
 </p>
