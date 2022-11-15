@@ -5,9 +5,10 @@
 
 ## 🙋‍♂️ About Me
 
-* 📍 I'm from **Brazil**  
+* 📍 I'm from **Brazil** 
 * 🤖 I'm **Mechatronic Engineer**
 * 🌎 I'm looking to collaborate and share a little of my knowledge with my projects
+* 👨‍💻 Currently I'm studying topics related to artificial intelligence, data analysis and data engineering
 * 📫 How to reach me caio.hda@gmail.com
   
 <br>
