@@ -30,6 +30,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/caio-andreatti/"><img src="files/icons/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ch-andreatti/"><img src="files/icons/linkedin.png"/></a>
 
 </p>
